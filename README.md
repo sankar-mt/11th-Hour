@@ -31,22 +31,15 @@ to assist yourself in times of emergencies.
 3. Maps to locate nearby services – shows the service
 providers nearest to your current location.
 
-✓ Users should be asked to register with email, password and phone
-number.
+✓ Users should be asked to register with email, password and phone number.
 ✓ Users should be asked login with their email and password only the
 first time, after that the signed in user should be provided with home
 screen for every other time he opens the app unless he/she signs out
 voluntarily.
-✓ Users are provided with a search bar in the home screen to search
-for places in the maps.
+✓ Users are provided with a search bar in the home screen to search for places in the maps.
 ✓ Users should be able to see their current location in real time..
-✓ Users should be provided with a button to send alert or panic
-message to other users or to emergency contacts.
-✓ Users shall be given with a confirmation option when they initiate
-alert or panic message.
-✓ Users should be able to access the map to navigate to emergency
-services from their home screen.
-✓ Users should get a notification if some other user in the vicinity
-sends an alert or panic message.
-✓ Users should be provided with the results which include the address
-and phone number of any emergency service when searched.
+✓ Users should be provided with a button to send alert or panic message to other users or to emergency contacts.
+✓ Users shall be given with a confirmation option when they initiate alert or panic message.
+✓ Users should be able to access the map to navigate to emergency services from their home screen.
+✓ Users should get a notification if some other user in the vicinity sends an alert or panic message.
+✓ Users should be provided with the results which include the address and phone number of any emergency service when searched.
