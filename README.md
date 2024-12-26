@@ -4,10 +4,6 @@
 A mobile application designed to provide essential information and services during emergencies. This app ensures users receive the right help at the right time through key features like distress alerts, self-help guides, and real-time maps to locate nearby services.
 
 ## Features
-<img width="240" alt="Screenshot 2024-12-26 at 1 56 09 PM" src="https://github.com/user-attachments/assets/9eca4ec1-2eec-4e98-8be7-33325ced6236" />
-<img width="240" alt="Screenshot 2024-12-26 at 1 56 21 PM" src="https://github.com/user-attachments/assets/6150e347-27c3-40f4-809e-0e73e000f839" />
-<img width="240" alt="Screenshot 2024-12-26 at 1 56 29 PM" src="https://github.com/user-attachments/assets/d20defd7-5b5f-4347-95e2-f796637c09a0" />
-<img width="240" alt="Screenshot 2024-12-26 at 1 56 40 PM" src="https://github.com/user-attachments/assets/3e698da1-f333-4409-85e6-1f069ce06dd5" />
 - **Alert Button**:  
   Send distress messages to nearby users or emergency contacts with a confirmation prompt for safety.
   
@@ -28,6 +24,11 @@ A mobile application designed to provide essential information and services duri
 
 - **Service Information**:  
   View addresses and phone numbers of emergency services when searched.
+
+<img width="240" alt="Screenshot 2024-12-26 at 1 56 09 PM" src="https://github.com/user-attachments/assets/9eca4ec1-2eec-4e98-8be7-33325ced6236" />
+<img width="240" alt="Screenshot 2024-12-26 at 1 56 21 PM" src="https://github.com/user-attachments/assets/6150e347-27c3-40f4-809e-0e73e000f839" />
+<img width="240" alt="Screenshot 2024-12-26 at 1 56 29 PM" src="https://github.com/user-attachments/assets/d20defd7-5b5f-4347-95e2-f796637c09a0" />
+<img width="240" alt="Screenshot 2024-12-26 at 1 56 40 PM" src="https://github.com/user-attachments/assets/3e698da1-f333-4409-85e6-1f069ce06dd5" />
 
 ## How It Works
 1. **Registration**:  
