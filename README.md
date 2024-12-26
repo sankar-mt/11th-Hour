@@ -1,7 +1,7 @@
 # Emergency Assist App 🚨
 A mobile application designed to provide essential information and services during emergencies. This app ensures users receive the right help at the right time through key features like distress alerts, self-help guides, and real-time maps to locate nearby services.
 
-<img width="240" alt="Screenshot 2024-12-26 at 1 56 03 PM" src="https://github.com/user-attachments/assets/367cba03-3b0c-49be-9348-90a5cbc153e5" />
+<img width="180" alt="Screenshot 2024-12-26 at 1 56 03 PM" src="https://github.com/user-attachments/assets/367cba03-3b0c-49be-9348-90a5cbc153e5" />
 
 ## Features
 - **Alert Button**:  
